@@ -1,0 +1,17 @@
+* {
+    font-family:'Times New Roman', Times, serif;
+    font-size: 24px;
+    background-color: blueviolet;
+}
+
+#ingredients {
+    font-size: 20px;
+    color: yellow;
+    background-color: blue;
+}
+
+#cooking-steps {
+    font-size: 20px;
+    color: goldenrod;
+    background-color: pink;
+}
